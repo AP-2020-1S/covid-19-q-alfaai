@@ -8,4 +8,4 @@ client = Socrata("www.datos.gov.co", None)
 results = client.get("gt2j-8ykr", limit=1000000)
 results_df = pd.DataFrame.from_records(results)
 
-results_df.describe()
+results_df.info()

@@ -4,7 +4,7 @@ Objetivo: El objetivo de este proyecto es la predicción de corto y mediano plaz
 
 ## Extracción de datos
 
-Nota: Para ejecutar cada una de las lineas de código puede dirgirse al notebook de colab publicado en este mismo repositorio.
+*Nota: Para ejecutar cada una de las lineas de código puede dirgirse al notebook de colab publicado en este mismo repositorio.*
 
 La información para el analisis de COVID en Colombia es tomada de la url: https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr/data
 
